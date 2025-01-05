@@ -1,0 +1,6 @@
+@article{REPO047,
+    author = "Yue, Wenxi and Zhang, Jing and Hu, Kun and Xia, Yong and Luo, Jiebo and Wang, Zhiyong",
+    booktitle = "AAAI",
+    title = "{SurgicalSAM: Efficient Class Promptable Surgical Instrument Segmentation}",
+    year = "2024"
+}
